@@ -12,10 +12,6 @@ QuizMeUp propose une expérience unique qui combine :
 - **Communautés dynamiques** : Suivez vos topics favoris, participez à l’actualité de chaque thème et grimpez dans les classements mensuels ou mondiaux.
 - **Création et partage** : Créez vos propres quiz, animez la discussion autour de vos créations et invitez la communauté à y participer.
 
-## Repositories
-
-- **.github** : Ce repository contient la configuration et les fichiers de présentation de l’organisation, dont ce profil README.
-
 ## Contribution
 
 Envie de participer à l’aventure QuizMeUp ? Consultez nos repositories publics, proposez vos idées ou corrections via des issues et pull requests, ou rejoignez la discussion sur nos fils communautaires.
